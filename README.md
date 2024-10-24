@@ -25,7 +25,7 @@ This Discord bot tracks staff activity across specified channels in a Discord se
 2. Install the required packages:
 ```pip install discord configparser```
 
-3. Create a `config.ini` file with the following structure:
+3. Create a `db_config.ini` file with the following structure:
 
 ```ini
 [activity]
